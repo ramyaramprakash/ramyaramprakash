@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Ramya 👋
 
-<!--
-**ramyaramprakash/ramyaramprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building a **data science & machine learning portfolio**, working my way from exploratory
+data analysis toward predictive models and deployed applications. I work in Python and care about
+turning messy, real-world data into clear, honest insight that a non-technical person can understand.
 
-Here are some ideas to get you started:
+🔭 **Currently learning:** end-to-end ML workflows and model deployment (Streamlit, FastAPI, Docker)
+🛠️ **Toolkit:** Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured project
+- **[Hospital Charges — Exploratory Data Analysis](https://github.com/ramyaramprakash/hospital-charges-eda)**
+  — what U.S. hospitals *bill* vs. what they're actually *paid*, across 163,000 Medicare records.
+  Data cleaning, group-by analysis, visualization, and a plain-English write-up of the findings.
+
+#### On the way
+Customer segmentation (clustering) · churn prediction (classification + API) · demand forecasting
+
+📫 **Reach me:** ramyaramprakash2007@gmail.com
